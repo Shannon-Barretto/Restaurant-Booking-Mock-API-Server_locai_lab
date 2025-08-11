@@ -196,6 +196,6 @@ Planned / suggested improvements:
 
 # License
 
-This project is available under the **MIT License**. See `LICENSE` for full text.
+This project is available under the [MIT License](LICENSE).
 
 ---
